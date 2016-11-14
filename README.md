@@ -1,5 +1,5 @@
 # Clustering-Sampling-Pareto
-@author SAAIDI AFAF 2016
+@author SAAIDI AFAF 2016 AMIB Team, LIX.
 
 The main file is RNAstruct.py
 Parameters could be adjusted through the file RNAstruct.config
